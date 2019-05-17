@@ -12,7 +12,7 @@ import java.util.Enumeration;
 import java.util.List;
 
 
-@Controller
+//@Controller
 public class IndexController {
 
     //@RequestMapping("/") //路径映射
